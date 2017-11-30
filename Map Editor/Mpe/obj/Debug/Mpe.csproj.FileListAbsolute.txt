@@ -1,0 +1,16 @@
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\bin\Debug\Mpe.exe.config
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\bin\Debug\Mpe.exe
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\bin\Debug\Mpe.pdb
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.csprojResolveAssemblyReference.cache
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.Form1.resources
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.Form2.resources
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.Properties.Resources.resources
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.csproj.GenerateResource.Cache
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.exe
+c:\users\andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.pdb
+C:\Users\Andy\Documents\Visual Studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.Form3.resources
+C:\Users\Andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.Form4.resources
+C:\Users\Andy\documents\visual studio 2013\Projects\Mpee\Mpe\obj\Debug\Mpe.Form5.resources
+C:\Users\Simakov Ilya\Desktop\Silent Escape\Mpee\Mpe\bin\Debug\Mpe.exe.config
+C:\Users\Simakov Ilya\Desktop\Silent Escape\Mpee\Mpe\obj\Debug\Mpe.exe
+C:\Users\Simakov Ilya\Desktop\Silent Escape\Mpee\Mpe\obj\Debug\Mpe.pdb

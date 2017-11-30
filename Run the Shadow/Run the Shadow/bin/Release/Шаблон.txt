@@ -1,0 +1,7 @@
+main ball (2)
+openball (2)
+gate (4)
+stat blocks (4x)
+dyn blocks (4x)
+guard (2x пока)
+paths)))

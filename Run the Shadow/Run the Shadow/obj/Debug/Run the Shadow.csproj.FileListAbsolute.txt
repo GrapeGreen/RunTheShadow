@@ -1,0 +1,9 @@
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\bin\Debug\Run the Shadow.exe.config
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\bin\Debug\Run the Shadow.exe
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\bin\Debug\Run the Shadow.pdb
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\obj\Debug\Run the Shadow.csprojResolveAssemblyReference.cache
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\obj\Debug\Run_the_Shadow.Form1.resources
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\obj\Debug\Run_the_Shadow.Properties.Resources.resources
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\obj\Debug\Run the Shadow.csproj.GenerateResource.Cache
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\obj\Debug\Run the Shadow.exe
+C:\Users\Simakov Ilya\Desktop\Run the Shadow\Run the Shadow\obj\Debug\Run the Shadow.pdb
